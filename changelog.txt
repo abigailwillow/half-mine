@@ -1,0 +1,10 @@
+- Updated resource pack to 1.15
+- Updated pack icon
+- Updated creeper fuse to be houndeye attack sound
+- Added vortigaunt sounds to enderman
+- Added gargantua sounds to iron golem
+- Added generic player hurt and death sounds
+- Updated fall damage sound
+- Updated throw sound
+- Added snow, honey, bamboo, and scaffolding step sounds
+- Added a few new music tracks
